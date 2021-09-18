@@ -131,6 +131,18 @@
                     path: "music/LoiYeuNgayDai.mp3",
                     image: "img/LoiYeuNgayDai.jpg",
                 },
+                {
+                    name: "Don't Give Up On Me",
+                    singer: "Andy Grammer",
+                    path: "music/DontGiveUpOnMe.mp3",
+                    image: "img/DonGiveUpOnMe.jpg",
+                },
+                {
+                    name: "Từ đó",
+                    singer: "Phan Mạnh Quỳnh",
+                    path: "music/TuDo.mp3",
+                    image: "img/TuDo.jpg",
+                },
 
             ],  
 
